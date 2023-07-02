@@ -1,11 +1,10 @@
 # KFMark Enabler
 
-Adds the KFMark daemon to your $PATH and enables it on boot.
+A Magisk/KernelSU module to enable KFMark daemon on boot. (Only support arm64)
 
 ## Tips
 
 You can download current version (Release 1.5) KFMark form [Release page](https://github.com/Septillion/KFMARK/releases).
-If KFMark daemon stoped, you can execute this command in terminal to restart it: `daemon`.
 
 ## What is KFMark?
 

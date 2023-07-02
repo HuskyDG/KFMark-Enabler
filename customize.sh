@@ -1,0 +1,1 @@
+[ "$ABI" != "arm64-v8a" ] && abort "! $ABI not supported"
